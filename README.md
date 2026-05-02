@@ -13,19 +13,18 @@
 - [📖 About the Project](#-about-the-project)
   - [🎯 Gameplay](#-gameplay)
   - [🛠 Built With](#-built-with)
-  - [✨ Features](#-features)
-- [📁 Project Structure](#-project-structure)
+  - [Live Demo](#live-demo)
 - [💻 Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
-  - [Setup & Running Locally](#setup--running-locally)
+  - [Setup & Running Locally](#-setup)
 - [🕹 Controls](#-controls)
-- [🌍 Game World](#-game-world)
-- [🔭 Possible Future Improvements](#-possible-future-improvements)
 - [👤 Author](#-author)
+- [🤝 Contributing](#-contributing)
+- [📝 License](#-license)
 
 ---
 
-## 📖 About the Project
+## 📖 About the Project <a name="-about-the-project"></a>
 
 **Phantom Run** is an side-scrolling platformer submitted as an ITP (Introduction to Programming I) final project. The player controls a character navigating a procedurally — jumping across canyons, landing on floating platforms, collecting coins, and avoiding patrolling ghost enemies.
 
@@ -33,7 +32,7 @@ The project is fully rendered using the **p5.js** canvas library with no externa
 
 ---
 
-## 🎯 Gameplay
+## 🎯 Gameplay <a name="-gameplay"></a>
 
 - Navigate right across the generating world
 - Jump to collect **gold coins** in view to increase your score
@@ -44,7 +43,7 @@ The project is fully rendered using the **p5.js** canvas library with no externa
 
 ---
 
-## 🛠 Built With
+## 🛠 Built With <a name="-built-with"></a>
 
 | Technology | Purpose |
 |---|---|
@@ -55,20 +54,20 @@ The project is fully rendered using the **p5.js** canvas library with no externa
 
 ---
 
-## Live Demo
+## Live Demo <a name="live-demo"></a>
 
 [Live Demo Link](https://ashmalzahra.github.io/p5js-side-scroller-game/)
 
 ---
 
-## 💻 Getting Started
+## 💻 Getting Started <a name="-getting-started"></a>
 
-### Prerequisites
+### Prerequisites <a name="prerequisities"></a>
 
 - A modern web browser (Chrome, Firefox, Edge, Safari)
 - No installations, build tools, or dependencies required
 
-### Setup & Running Locally
+### Setup & Running Locally <a name="-setup"></a>
 
 Open `index.html` in your browser
 
@@ -76,7 +75,7 @@ Alternatively, use the [Live Server](https://marketplace.visualstudio.com/items?
 
 ---
 
-## 🕹 Controls
+## 🕹 Controls <a name="-controls"></a>
 
 | Key | Action |
 |-----|--------|
@@ -88,7 +87,7 @@ Alternatively, use the [Live Server](https://marketplace.visualstudio.com/items?
 
 ---
 
-## 👤 Author
+## 👤 Author <a name="-author"></a>
 
 👤 **Ashmal Zahra**
 
@@ -100,19 +99,15 @@ Alternatively, use the [Live Server](https://marketplace.visualstudio.com/items?
 
 ---
 
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing <a name="-contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/ashmalzahra/p5js-side-scroller-game/issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ---
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="-license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
