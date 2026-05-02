@@ -55,6 +55,12 @@ The project is fully rendered using the **p5.js** canvas library with no externa
 
 ---
 
+## Live Demo
+
+[Live Demo Link](https://ashmalzahra.github.io/p5js-side-scroller-game/)
+
+---
+
 ## ✨ Features
 
 - **Procedural world generation** — clouds, mountains, trees, canyons, collectables, and platforms are dynamically spawned as the player progresses and culled off-screen to keep memory usage minimal
@@ -124,7 +130,7 @@ Alternatively, use the [Live Server](https://marketplace.visualstudio.com/items?
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/dennis-every/recipes-app/issues).
+Feel free to check the [issues page](https://github.com/ashmalzahra/p5js-side-scroller-game/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
